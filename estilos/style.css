@@ -10,9 +10,13 @@ body {
 main {
     background-color: white;
     width: 50vw;
-    height: 60vh;
+    height: 50vh;
     margin: auto;
     padding: 10px;
     border-radius: 25px;
     box-shadow: 3px 3px 5px rgba(170, 144, 27, 0.678)
+}
+
+img.centro {
+    float: right;
 }
