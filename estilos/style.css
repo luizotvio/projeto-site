@@ -9,8 +9,10 @@ body {
 
 main {
     background-color: white;
-    width: 500px;
+    width: 50vw;
+    height: 50vh;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473)
+    border-radius: 25px;
+    box-shadow: 3px 3px 5px rgba(170, 144, 27, 0.678)
 }
