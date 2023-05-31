@@ -5,14 +5,13 @@
 
 body {
     background-color: beige;
-    
 }
 
 
 main {
     background-color: white;
-    width: 45vw;
-    height: 51vh;
+    width: 80vw;
+    height: auto;
     margin: auto;
     padding: 10px;
     border-radius: 25px;
