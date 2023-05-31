@@ -5,12 +5,14 @@
 
 body {
     background-color: beige;
+    margin: 300px;
 }
+
 
 main {
     background-color: white;
     width: 50vw;
-    height: 50vh;
+    height: 51vh;
     margin: auto;
     padding: 10px;
     border-radius: 25px;
@@ -22,6 +24,17 @@ h1 {
 
 h2 {
     color:  rgba(139, 121, 40, 0.678);
+}
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(116, 117, 23);
+}
+
+a:hover {
+    color: bisque;
 }
 
 img.centro {
