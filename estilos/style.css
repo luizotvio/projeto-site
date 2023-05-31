@@ -1,6 +1,6 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;;
+    font-size: 16px;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 main {
     background-color: white;
     width: 50vw;
-    height: 50vh;
+    height: 60vh;
     margin: auto;
     padding: 10px;
     border-radius: 25px;
